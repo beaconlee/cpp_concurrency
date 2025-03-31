@@ -12,6 +12,7 @@ Checks:
   -bugprone-easily-swappable-parameters
   -readability-identifier-length,
   -cppcoreguidelines-avoid-magic-numbers,
+  -readability-magic-numbers,
   -cppcoreguidelines-special-member-functions,
 CheckOptions:
   # 配置认知复杂度（函数的复杂度阈值）
